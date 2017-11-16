@@ -31,11 +31,11 @@ Nobody wants an investment hindered by unforeseen technical conditions.
 } 
 -->  
 
-## Our Solution
+## Start-up pack
 
-![Improve what matters](assets/bch-improve-what-matters.jpg)
+- A *different* Code Quality tool
+- Code Coaching
 
-A *different* Code Quality tool
 
 +++
 
