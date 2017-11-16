@@ -1,14 +1,15 @@
 ---?image=assets/bch-bg.png
 
 ### Introducing
-## Better Code Hub
-#### Start Up Pack
+## Start Up Pack
+#### Better Code Hub
 
 ---
 
-## The challenges
+## The challenge for a Start up
 
 building a software product that is 
+
 - *scalable* to facilitate your growth
 - easy to *change* to adapt to market needs 
 - demonstating quality to an investor
