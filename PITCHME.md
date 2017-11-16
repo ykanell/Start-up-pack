@@ -23,10 +23,6 @@ code must be <span class="primary">investor-ready</span>.
 
 Nobody wants an investment hindered by unforeseen technical conditions. 
 
-+++
-
-
-
 
 ---
 <!-- 
