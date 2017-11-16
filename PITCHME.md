@@ -6,9 +6,9 @@
 
 ---
 
-## The Start up challenge
+## The Start Up challenge
 
-<span class="primary">building software that is</span> 
+<span class="primary">building a software product that is</span> 
 
 - *scalable* to facilitate growth
 - easy to *change* to fit to market needs 
@@ -33,9 +33,10 @@ Nobody wants an investment hindered by unforeseen technical conditions.
 
 ## The offering
 
-- 6 months of free access to Better Code Hub for team
-- Code Coaching workshops at incubator
-- Free Copy of Building Maintainable Software
+- 6 months of free access to Better Code Hub for the development team
+- Code Coaching workshops at incubator (either on promise or on line)
+- Free copies of Building Maintainable Software
+- Upon request discount on the Quality Software Development professional qualification
 
 
 +++
@@ -90,7 +91,7 @@ Better Code Hub integrates developer feedback in GitHub
 - Technology or internet company
 - Less than 18 months old
 - Fewer than 10 employees
-- Less than $1.5M in funding
+- Less than $0.5M in funding
 
 
 
