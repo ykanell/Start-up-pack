@@ -2,7 +2,7 @@
 
 ### Introducing
 ## Start Up Pack
-#### Better Code Hub
+#### by Software Improvement Group
 
 ---
 
