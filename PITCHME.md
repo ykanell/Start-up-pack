@@ -6,13 +6,13 @@
 
 ---
 
-## Start Up Challenges
+## The challenges
 
 building a software product that is 
 - *scalable* to facilitate your growth
 - easy to *change* to adapt to market needs 
 - demonstating quality to an investor
-- ensure a safe investment not be hindered by unforeseen technical conditions
+
 
 code must be <span class="primary">investor-ready</span>.
 
@@ -20,7 +20,7 @@ code must be <span class="primary">investor-ready</span>.
 
 ![Legacy code](assets/legacy-code.png)
 
-Nobody wants to adopt legacy code
+Nobody wants an investment hindered by unforeseen technical conditions. 
 
 +++
 
