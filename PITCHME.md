@@ -14,7 +14,7 @@ building software that is
 - easy to *change* to fit to market needs 
 - demonstating the quality to an investor
 
-in short: code must be <span class="primary">investor-ready</span>.
+code must be <span class="primary">investor-ready</span>.
 
 +++
 
