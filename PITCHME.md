@@ -69,7 +69,7 @@ Better Code Hub integrates developer feedback in GitHub
 
 Analysis is based on Building Maintainable Software
 
-![10 guidelines](assets/bms-cover.jpg)
+![10 guidelines](assets/bms-cover.png)
 
 [Based on ISO 25010 standard for Software Quality](https://shop.oreilly.com/product/0636920049159.do)
 
