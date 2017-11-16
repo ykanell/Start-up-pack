@@ -33,8 +33,9 @@ Nobody wants an investment hindered by unforeseen technical conditions.
 
 ## Start-up pack
 
-- A *different* Code Quality tool
-- Code Coaching
+- 6 months of free access to Better Code Hub for 5 seats
+- Code Coaching workshop at incubator 2 hours
+- Free Copy of Building Maintainable Software
 
 
 +++
