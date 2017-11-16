@@ -60,7 +60,7 @@ Better Code Hub gives you a definition of done ✅
 
 +++
 
-Better Code Hub costs zero set-up time and gives immediate developer feedback
+Better Code Hub integrates developer feedback in GitHub
 
 ![BCH GitHub flow](assets/bch-github-flow.png)
 
