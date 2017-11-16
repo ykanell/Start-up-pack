@@ -18,7 +18,7 @@ code must be <span class="primary">investor-ready</span>.
 
 +++
 
-![Legacy code](assets/legacy-code.png)
+![unforeseen technical conditions](assets/car-wheel.png)
 
 Nobody wants an investment hindered by unforeseen technical conditions. 
 
