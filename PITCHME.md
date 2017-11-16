@@ -67,9 +67,9 @@ Better Code Hub integrates developer feedback in GitHub
 
 +++
 
-![10 guidelines](assets/bms-cover.png)
-
 [Analysis is based on Building Maintainable Software](https://shop.oreilly.com/product/0636920049159.do)
+
+![10 guidelines](assets/bms-cover.png)
 
 +++
 
@@ -104,12 +104,11 @@ Better Code Hub integrates developer feedback in GitHub
 
 ---
 
-## How to Stay in Touch
+## How to get in touch
 
 - <bettercodehub@sig.eu>
 - Twitter: [@bettercodehub](https://twitter.com/bettercodehub)
 - Medium: [medium.com/bettercode](https://medium.com/bettercode)
 - Newsletter: [Better Code Update](http://us14.campaign-archive1.com/home/?u=104bf91e618a0b2a854bdea20&id=97fcbfb998)
 
-This presentation: <https://gitpitch.com/bettercodehub/pitch><br/><br/>
 ✨ Thanks for your time! ✨
