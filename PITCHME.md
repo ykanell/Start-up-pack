@@ -27,12 +27,6 @@ Nobody wants an investment hindered by unforeseen technical conditions.
 
 
 
-+++ 
-
-![Improving code quality cover](assets/improving-code-quality-cover.png)
-
-Read more: [Improving Code
-Quality](https://www.sig.eu/insight/improving-code-quality/)
 
 ---
 <!-- 
