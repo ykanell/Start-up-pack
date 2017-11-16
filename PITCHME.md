@@ -6,7 +6,7 @@
 
 ---
 
-## Challenges of a Start Up
+## Start Up Challenges
 
 building a software product that is 
 - *scalable* to facilitate your growth
