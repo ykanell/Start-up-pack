@@ -8,14 +8,14 @@
 
 ## The challenge for a Start up
 
-building a software product that is 
+building software that is 
 
-- *scalable* to facilitate your growth
-- easy to *change* to adapt to market needs 
+- *scalable* to facilitate growth
+- easy to *change* to fit to market needs 
 - demonstating the quality to an investor
 
 
-code must be <span class="primary">investor-ready</span>.
+in short: code must be <span class="primary">investor-ready</span>.
 
 +++
 
