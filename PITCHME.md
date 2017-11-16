@@ -2,7 +2,7 @@
 
 ### Introducing
 ## Better Code Hub
-#### Your Definition of Done for Code Quality
+#### Start Up Pack
 
 ---
 
