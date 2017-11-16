@@ -31,7 +31,7 @@ Nobody wants an investment hindered by unforeseen technical conditions.
 } 
 -->  
 
-## Start-up pack
+## Start up pack
 
 - 6 months of free access to Better Code Hub for 5 seats
 - Code Coaching workshop at incubator 2 hours
@@ -39,6 +39,8 @@ Nobody wants an investment hindered by unforeseen technical conditions.
 
 
 +++
+
+Better Code Hub is a automated tool that provides a score x out of 10
 
 ![Mockito 10 out of 10](assets/mockito-10-out-of-10.png)
 
