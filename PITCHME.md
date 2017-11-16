@@ -14,7 +14,7 @@
 - easy to *change* to fit to market needs 
 - demonstating the quality to an investor
 
-code must be <span class="primary">investor-ready</span>.
+<span class="primary">investor-ready</span>.
 
 +++
 
