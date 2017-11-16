@@ -14,7 +14,7 @@
 - easy to *change* to fit to market needs 
 - demonstating the quality to an investor
 
-<span class="primary">investor-ready</span>.
+<span class="primary">investor-ready.</span>
 
 +++
 
@@ -40,11 +40,10 @@ Nobody wants an investment hindered by unforeseen technical conditions.
 
 +++
 
-Better Code Hub is a automated tool that provides a score x out of 10
+Better Code Hub is a automated tool that provides a score.
 
 ![Mockito 10 out of 10](assets/mockito-10-out-of-10.png)
 
-Provides teams a Definition of Done for Code Quality 
 
 +++
 
