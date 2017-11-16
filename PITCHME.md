@@ -8,7 +8,7 @@
 
 ## The Start up challenge
 
-<span class="primary">building software that is</span>. 
+<span class="primary">building software that is</span> 
 
 - *scalable* to facilitate growth
 - easy to *change* to fit to market needs 
