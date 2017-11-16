@@ -40,31 +40,34 @@ Nobody wants an investment hindered by unforeseen technical conditions.
 
 +++
 
-Better Code Hub is a automated tool that provides a score.
+Better Code Hub is a automated tool that provides a clear score.
 
 ![Mockito 10 out of 10](assets/mockito-10-out-of-10.png)
 
 
 +++
 
-It helps to Write better code. 
+Better Code Hub helps to write better code. 
 ![octodns](assets/octodns.jpg)
 
 
 
 +++
 
-It gives you a definition of done ✅
+Better Code Hub gives you a definition of done ✅
 ![Commons-IO simple units guideline](assets/commons-io-simple-units-guideline.png)
 
 
 +++
 
+Better Code Hub costs zero set-up time and gives immediate developer feedback
+
 ![BCH GitHub flow](assets/bch-github-flow.png)
 
-Zero set-up time and immediate developer feedback
 
 +++
+
+Analysis is based on Building Maintainable Software
 
 ![10 guidelines](assets/10-guidelines.jpg)
 
