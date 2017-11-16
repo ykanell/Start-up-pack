@@ -81,42 +81,18 @@ Zero set-up time and immediate developer feedback
 
 ---
 
-## Our Offerings
+## How to qualify
 
-#### Better Code Hub for <span class="primary">GitHub.com</span>
+- Technology or internet company
+- Less than 18 months old
+- Fewer than 10 employees
+- Less than $1.5M in funding
 
-For individual developers & small development teams as well as large
-enterprises that use the GitHub.com platform
 
-#### Better Code Hub for <span class="primary">GitHub Enterprise</span>
-
-For organizations that use an on-premise GitHub Enterprise server
 
 +++
 
-### Better Code Hub for GitHub.com
-
-
-- [Available on GitHub Marketplace](https://github.com/marketplace/better-code-hub)
-
-- Pricing
-  - Free plan: free for open source, limit 100,000 lines of code per repository
-  - Pro plan: $20 per user/month, limit 200,000 lines of code per repository
-- Perfect fit for a [modern CI/CD pipeline](https://medium.com/bettercode/how-to-build-a-modern-ci-cd-pipeline-5faa01891a5b)
-
-+++
-
-### Better Code Hub for GitHub Enterprise
-
-- SaaS solution that connects to on-premise GitHub Enterprise server ([client case](https://www.exact.com/global/newsroom/inside-exact/573-code-quality-is-key-to-a-successful-company)) 
-- SIG is ISO 27001 certified
-- No permanent storage of source code on Better Code Hub infrastructure
-- Pricing per user/month + yearly service fee
-- Option to bundle with other SIG services
-
----
-
-## Our Community Offerings
+## Other Community Offerings
 
 - [EduPack: Code Clinics](https://education.github.community/t/a-proposed-add-on-for-code-quality-in-software-engineering-courses-using-github/9067) 
 - [Open Source Spring Cleaning](https://opensourcespringcleaning.github.io/)
