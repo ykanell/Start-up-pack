@@ -6,15 +6,13 @@
 
 ---
 
-## Some Challenges of a Start Up
-
-![Getting started with InnerSource](assets/getting-started-with-innersource-cover.png)
+## Challenges of a Start Up
 
 building a software product that is 
 - *scalable* to facilitate your growth
 - easy to *change* to adapt to market needs 
-- demonstating quality to an investor 
-who wants to ensure their investment will not be hindered by unforeseen technical conditions when it comes to your product.
+- demonstating quality to an investor
+- ensure a safe investment not be hindered by unforeseen technical conditions
 
 code must be <span class="primary">investor-ready</span>.
 
