@@ -6,14 +6,13 @@
 
 ---
 
-## The challenge for a Start up
+## The Start up challenge
 
 building software that is 
 
 - *scalable* to facilitate growth
 - easy to *change* to fit to market needs 
 - demonstating the quality to an investor
-
 
 in short: code must be <span class="primary">investor-ready</span>.
 
