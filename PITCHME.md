@@ -12,7 +12,7 @@ building a software product that is
 
 - *scalable* to facilitate your growth
 - easy to *change* to adapt to market needs 
-- demonstating quality to an investor
+- demonstating the quality to an investor
 
 
 code must be <span class="primary">investor-ready</span>.
@@ -25,56 +25,7 @@ Nobody wants an investment hindered by unforeseen technical conditions.
 
 +++
 
-#### Code Quality tools prevent legacy code, but...
 
-<canvas class="stretch" data-chart="horizontalBar">
-dataset, 46, 36, 35, 28, 27, 14
-<!-- 
-{ 
- "data" : {
-  "labels" : ["Too many false positives", "Too many warnings", "High price", 
-    "Difficult to configure", "No actionable recommendations", 
-    "Lack a broadly accepted quality standard"], 
-  "datasets" : [{ 
-    "data": [46, 36, 35, 28, 27, 14],
-    "backgroundColor": "springgreen",
-    "borderColor": "springgreen" 
-  }]
-  },
-  "options": {
-    "title": {
-      "display": true,
-      "text": "What are the biggest pitfalls of code quality tools?",
-      "fontColor": "springgreen",
-      "fontSize": 20
-    },
-    "legend": {
-      "display": false
-    },
-    "scales": {
-      "xAxes": [{
-        "ticks": {
-            "beginAtZero": true,
-            "max": 80,
-            "stepSize": 10,
-            "fontColor": "springgreen"
-        },
-        "scaleLabel": {
-          "display": true,
-          "labelString": "Percentage of respondents (T=899)",
-          "fontColor": "springgreen"
-        }
-      }],
-      "yAxes": [{
-        "ticks": {
-            "fontColor": "springgreen"
-        }
-      }]
-    }
-  }
-}
--->
-<ccanvas>
 
 +++ 
 
