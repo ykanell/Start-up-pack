@@ -31,10 +31,10 @@ Nobody wants an investment hindered by unforeseen technical conditions.
 } 
 -->  
 
-## Start up pack
+## The offering
 
-- 6 months of free access to Better Code Hub for 5 seats
-- Code Coaching workshop at incubator 2 hours
+- 6 months of free access to Better Code Hub for team
+- Code Coaching workshops at incubator
 - Free Copy of Building Maintainable Software
 
 
@@ -47,15 +47,16 @@ Better Code Hub is a automated tool that provides a score.
 
 +++
 
+It helps to Write better code. 
 ![octodns](assets/octodns.jpg)
 
-Does not flood you with violations
+
 
 +++
 
+It gives you a definition of done ✅
 ![Commons-IO simple units guideline](assets/commons-io-simple-units-guideline.png)
 
-Actionable refactoring recommendations with impact analysis
 
 +++
 
