@@ -18,7 +18,7 @@ code must be <span class="primary">investor-ready</span>.
 
 +++
 
-![unforeseen technical conditions](assets/car-wheel.png)
+![unforeseen technical conditions](assets/car-wheels.jpg)
 
 Nobody wants an investment hindered by unforeseen technical conditions. 
 
